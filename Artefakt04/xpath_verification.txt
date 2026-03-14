@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: surface_view
+TAG: VideoView
+STATUS: ZALICZONE
