@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\pipeline.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pipeline.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_101_allure_init.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_101_allure_init.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_103_attachments.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_103_attachments.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_102_meta_reporting.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test_102_meta_reporting.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pipeline.py",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\pipeline.py",
+              "RelativeDocumentMoniker": "pipeline.py",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\pipeline.py",
+              "RelativeToolTip": "pipeline.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T16:00:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_103_attachments.py",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_103_attachments.py",
+              "RelativeDocumentMoniker": "test_103_attachments.py",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_103_attachments.py",
+              "RelativeToolTip": "test_103_attachments.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T15:56:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_102_meta_reporting.py",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_102_meta_reporting.py",
+              "RelativeDocumentMoniker": "test_102_meta_reporting.py",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_102_meta_reporting.py",
+              "RelativeToolTip": "test_102_meta_reporting.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T15:42:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_101_allure_init.py",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_101_allure_init.py",
+              "RelativeDocumentMoniker": "test_101_allure_init.py",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\TM-96407\\Artefakt10\\test_101_allure_init.py",
+              "RelativeToolTip": "test_101_allure_init.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T15:20:31.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
